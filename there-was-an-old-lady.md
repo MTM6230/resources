@@ -1,60 +1,60 @@
 # There Was an Old Lady
 
 ## Lyrics
-There was an old lady who swallowed a fly;
+There was an old lady who swallowed a fly;<br>
 I don't know why she swallowed a fly - perhaps she'll die!
 
-There was an old lady who swallowed a spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady who swallowed a spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady who swallowed a bird;
-How absurd to swallow a bird!
-She swallowed the bird to catch the spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady who swallowed a bird;<br>
+How absurd to swallow a bird!<br>
+She swallowed the bird to catch the spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady who swallowed a cat;
-Imagine that! She swallowed a cat!
-She swallowed the cat to catch the bird,
-She swallowed the bird to catch the spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady who swallowed a cat;<br>
+Imagine that! She swallowed a cat!<br>
+She swallowed the cat to catch the bird,<br>
+She swallowed the bird to catch the spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady that swallowed a dog;
-What a hog, to swallow a dog!
-She swallowed the dog to catch the cat,
-She swallowed the cat to catch the bird,
-She swallowed the bird to catch the spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady that swallowed a dog;<br>
+What a hog, to swallow a dog!<br>
+She swallowed the dog to catch the cat,<br>
+She swallowed the cat to catch the bird,<br>
+She swallowed the bird to catch the spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady who swallowed a goat;
-She just opened her throat and swallowed a goat!
-She swallowed the goat to catch the dog,
-She swallowed the dog to catch the cat,
-She swallowed the cat to catch the bird,
-She swallowed the bird to catch the spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady who swallowed a goat;<br>
+She just opened her throat and swallowed a goat!<br>
+She swallowed the goat to catch the dog,<br>
+She swallowed the dog to catch the cat,<br>
+She swallowed the cat to catch the bird,<br>
+She swallowed the bird to catch the spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady who swallowed a cow;
-I don't know how she swallowed a cow!
-She swallowed the cow to catch the goat,
-She swallowed the goat to catch the dog,
-She swallowed the dog to catch the cat,
-She swallowed the cat to catch the bird,
-She swallowed the bird to catch the spider;
-That wriggled and jiggled and tickled inside her!
-She swallowed the spider to catch the fly;
+There was an old lady who swallowed a cow;<br>
+I don't know how she swallowed a cow!<br>
+She swallowed the cow to catch the goat,<br>
+She swallowed the goat to catch the dog,<br>
+She swallowed the dog to catch the cat,<br>
+She swallowed the cat to catch the bird,<br>
+She swallowed the bird to catch the spider;<br>
+That wriggled and jiggled and tickled inside her!<br>
+She swallowed the spider to catch the fly;<br>
 I don't know why she swallowed a fly - Perhaps she'll die!
 
-There was an old lady who swallowed a horse;
+There was an old lady who swallowed a horse;<br>
 ...She died, of course!
 
 ## Lines
